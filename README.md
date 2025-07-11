@@ -22,8 +22,6 @@ The dataset typically includes the following fields:
 - **Claims** – Whether a claim was made or not
 - **Tenure** – How long the customer has been with the company
 
-> *Note: Exact column names may vary based on the original dataset used.*
-
 ## 🧪 EDA Steps
 
 1. **Data Cleaning**
